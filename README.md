@@ -4,3 +4,7 @@ This Discrete Optimization Project aims to solve a Peg Solitaire Problem, as you
 <p align="center">
   <img src="http://www.gibell.net/pegsolitaire/diagonal/6MoveEnglishNormalBoard17Moves.gif">
 </p>
+
+Contributors :
+- Ahmed El Aamrani
+- Wassim Lhourti
